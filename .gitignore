@@ -373,8 +373,4 @@ FodyWeavers.xsd
 *.uxml
 /Library/PackageCache/com.unity.collab-proxy@1.5.7/.Resources
 /Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/PlasticSCM
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Presenters
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Models
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Components
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Common
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Assets
+/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Assets/Icons
