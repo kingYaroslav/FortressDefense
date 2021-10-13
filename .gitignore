@@ -364,8 +364,7 @@ FodyWeavers.xsd
 
 
 /Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/PlasticSCM/Assets/Styles
 /Library/PackageCache/com.unity.collab-proxy@1.5.7/Tests/.tests.json
 /Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Assets/Icons
 /Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/PlasticSCM/Assets/Images
+/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM
