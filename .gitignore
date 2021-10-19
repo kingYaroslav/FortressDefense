@@ -362,8 +362,3 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-
-/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/Collaborate/Assets/Icons
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Editor/PlasticSCM/Assets/Images
-/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM
